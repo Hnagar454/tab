@@ -1,0 +1,26 @@
+* {
+
+  background-color: snow;
+}
+
+
+
+.tablehead{
+  padding: 20px;
+  float: left;
+  border: 1px solid black;
+  cursor: pointer;
+  background-color: beige;
+}
+
+
+.table-content{
+
+  display: none;
+}
+
+.content{
+
+  display: block;
+
+}
